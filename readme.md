@@ -12,6 +12,7 @@ WORK IN PROGRESS - any suggestion is welcome.
 - Updated stat weights (for example from [here](https://www.raidbots.com/simbot/stats))
 
 ## How to use
+- `pipenv install` (once)
 - `pipenv run python main.py`
 
 It will generate an excel file to read and profit from.
